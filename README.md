@@ -2,8 +2,6 @@
 
 This is a simple ERP (Enterprise Resource Planning) system developed using **PHP**, **MySQL**, **Bootstrap**, **CSS**, and **JavaScript**. The system allows users to manage customers, items, and generate reports with functionality to insert, update, delete, and search data.
 
----
-
 ## Features
 
 ### 1. Customer Management
@@ -35,8 +33,6 @@ This is a simple ERP (Enterprise Resource Planning) system developed using **PHP
 - **Item Report**: View item details.
   - Includes: Item Name (unique), Item Category, Item Subcategory, Quantity.
 
----
-
 ## Tech Stack
 
 ### Frontend:
@@ -51,4 +47,3 @@ This is a simple ERP (Enterprise Resource Planning) system developed using **PHP
 ### Database:
 - **MySQL**: For storing and managing data.
 
----
