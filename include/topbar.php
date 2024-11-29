@@ -1,7 +1,7 @@
-  <!--Top navbar start-->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div class="container-fluid">
-                    <!--offcanvas trigger start-->
+   <!--Top navbar start-->
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <!--offcanvas trigger start-->
                     <button
                     class="navbar-toggler me-2"
                     type="button"
@@ -11,25 +11,25 @@
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
-            <!--offcanvas trigger end-->
-            <a class="navbar-brand text-uppercase fw-bold text-uppercase me-auto " 
-            href="#">Pro Track</a>
-            <button class="navbar-toggler" type="button" 
-            data-bs-toggle="collapse" 
-            data-bs-target="#navbarSupportedContent" 
-            aria-controls="navbarSupportedContent" 
-            aria-expanded="false" 
-            aria-label="Toggle navigation">
+              <!--offcanvas trigger end-->
+         <a class="navbar-brand text-uppercase fw-bold text-uppercase me-auto " 
+         href="#">PRO TRACK</a>
+        <button class="navbar-toggler" type="button" 
+              data-bs-toggle="collapse" 
+              data-bs-target="#navbarSupportedContent" 
+              aria-controls="navbarSupportedContent" 
+              aria-expanded="false" 
+              aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" 
-            id="navbarSupportedContent">
-            <form class="d-flex ms-auto" role="search">
+              </button>
+              <div class="collapse navbar-collapse" 
+              id="navbarSupportedContent">
+              <form class="d-flex ms-auto" role="search">
                 <div class="input-group my-3 my-lg-0 ">
                     <input 
                     type="text" 
                     class="form-control"
-                    placeholder="Search..." 
+                     placeholder="Search..." 
                     aria-describedby="button-addon2"
                     />
                     <button class="btn btn-outline-secondary btn-primary text-white" 
@@ -39,27 +39,27 @@
                         <i class="fa-solid fa-magnifying-glass"></i>
                     </button>
 
-                </div>
-            </form>
-            
+                  </div>
+              </form>
+              
                 <ul class="navbar-nav mb-2 mb-lg-0">
-                <li class="nav-item dropdown">
+                  <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" 
                     role="button" data-bs-toggle="dropdown" 
                     aria-expanded="false"
                     >
                     <img src="./assets/images/user.png" class="user-icon" alt="User icon"/>
-                    Admin
+                      Admin
                     </a>
                     <ul class="dropdown-menu dropdown-menu-end">
-                    <li><a class="dropdown-item" href="#">My Profile</a></li>
-                    <li><a class="dropdown-item" href="#">Change Password</a></li>
-                    <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#">Log Out</a></li>
+                      <li><a class="dropdown-item" href="#">My Profile</a></li>
+                      <li><a class="dropdown-item" href="#">Change Password</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Log Out</a></li>
                     </ul>
-                </li>
+                  </li>
                 </ul>
+              </div>
             </div>
-            </div>
-            </nav>
-            <!--Top navbar end-->
+        </nav>
+        <!--Top navbar end-->

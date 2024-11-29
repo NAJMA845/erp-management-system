@@ -1,6 +1,5 @@
-
-            <!--Off canvas start-->
-            <div class="offcanvas offcanvas-start bg-dark text-white sidebar-nav"
+    <!--Off canvas start-->
+    <div class="offcanvas offcanvas-start bg-dark text-white sidebar-nav"
             tabindex="-1"
             id="offcanvasExample"
             aria-labelledby="offcanvasExampleLabel">
@@ -38,7 +37,7 @@
                         <div>
                             <ul class="navbar-nav ps-3">
                                 <li>
-                                    <a href="./add-customers.html" class="nav-link"><i
+                                    <a href="./customers/add-customers.php" class="nav-link"><i
                                             class="fas fa-plus me-2"></i> Add New </a>
                                 </li>
                                 <li>
